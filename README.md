@@ -3,7 +3,7 @@
 The example for paniscle structure analysis with ImageJ and R
 
 ## About:  
-This is the bundle of code for panicle structure analysis in Tajima et al. (2019) Analysis of rice panicle structure using image analysis technique.(in Japanese) in the 247th Meeting of the Crop Science Society of Japan. University of Tsukuba. 28/Mar/2019.
+This is the bundle of code for panicle structure analysis in Tajima et al. (2019) Analysis of rice panicle structure using image analysis technique (in Japanese) in the 247th Meeting of the Crop Science Society of Japan. University of Tsukuba. 28/Mar/2019.
 
 ## Requirement:  
 - ImageJ  
